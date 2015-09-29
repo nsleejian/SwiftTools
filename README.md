@@ -26,3 +26,9 @@ Swift 常用第三方工具集合
          <http://snapkit.io>
        
 ![image](https://camo.githubusercontent.com/446acab40bc68602c8046deddbc60296906ce2d6/687474703a2f2f736e61706b69742e696f2f696d616765732f62616e6e65722e706e67)
+
+###4、图片缓存
+
+* Kingfisher <https://github.com/onevcat/Kingfisher>
+
+![image](https://raw.githubusercontent.com/onevcat/Kingfisher/master/images/logo.png)
